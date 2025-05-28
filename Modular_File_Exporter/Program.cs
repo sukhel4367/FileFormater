@@ -8,8 +8,8 @@ namespace ExpoterApp
         public static void Main(string[] args)
         {
             Console.WriteLine("Which Data Model are you choosing :\n");
-            Console.WriteLine("1. Employee");
-            Console.WriteLine("2. Product");
+            Console.WriteLine("1-> Employee");
+            Console.WriteLine("2-> Product");
             Console.Write("\nEnter Model number : ");
             string choice = Console.ReadLine();
 
