@@ -72,7 +72,7 @@ Edit
 
 ---
 
-## 📄 Sample Interface
+## 📄 Sample Interfaces
 
 ```csharp
 public interface IExporter<T>
