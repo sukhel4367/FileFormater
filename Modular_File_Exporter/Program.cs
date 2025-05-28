@@ -7,10 +7,10 @@ namespace ExpoterApp
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Which Data Model are you choosing :\n");
+            Console.WriteLine("Which Data Model are u choosing :\n");
             Console.WriteLine("1. Employee");
             Console.WriteLine("2. Product");
-            Console.Write("\nEnter Model number : ");
+            Console.Write("\nEnter Model number (1/2): ");
             string choice = Console.ReadLine();
 
             switch (choice.Trim())
